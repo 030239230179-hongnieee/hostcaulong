@@ -1,0 +1,11 @@
+{
+ "players": {},
+ "counter": 0,
+ "courts": {
+  "1": null,
+  "2": null
+ },
+ "partners": {},
+ "opponents": {},
+ "history": []
+}
